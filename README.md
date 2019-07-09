@@ -11,7 +11,7 @@ personal leetcode solution
 |20|Valid Parentheses|Rust|
 |21|Merge Two Sorted Lists|C#|
 |26|Remove Duplicates from Sorted Array|Rust|
-|27|Remove Elements|Rust|
+|27|Remove Element|Rust|
 |28|Implement strStr()|Rust|
 |66|Plus One|Rust|
 |83|Remove Duplicates from Sorted Lists|Javascript|
