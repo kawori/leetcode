@@ -13,6 +13,7 @@ personal leetcode solution
 |26|Remove Duplicates from Sorted Array|Rust|
 |27|Remove Element|Rust|
 |28|Implement strStr()|Rust|
+|53|Maximum Subarray|Rust|
 |66|Plus One|Rust|
 |83|Remove Duplicates from Sorted Lists|Javascript|
 |100|Same Tree|Javascript|
