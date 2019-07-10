@@ -14,7 +14,9 @@ personal leetcode solution
 |27|Remove Element|Rust|
 |28|Implement strStr()|Rust|
 |53|Maximum Subarray|Rust|
+|58|Length of Last Word|C++|
 |66|Plus One|Rust|
+|69|Sqrt(x)|C++|
 |83|Remove Duplicates from Sorted Lists|Javascript|
 |100|Same Tree|Javascript|
 |101|Symmetric Tree|C#|
