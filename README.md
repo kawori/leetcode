@@ -21,4 +21,6 @@ personal leetcode solution
 |100|Same Tree|Javascript|
 |101|Symmetric Tree|C#|
 |102|Binary Tree Level Order Traversal I|C++|
+|104|Maximum Depth of Binary Tree|C++|
+|118|Pascal's Triangle|Rust|
 |119|Pascal's Triangle II|Rust|
