@@ -25,6 +25,7 @@ personal leetcode solution
 |118|Pascal's Triangle|Rust|
 |119|Pascal's Triangle II|Rust|
 |237|Delete Node in a Linked List|C++|
+|451|Sort Characters By Frequency|Rust|
 |709|To Lower Case|Rust|
 |802|Flipping an Image|Rust|
 |804|Unique Morse Code Words|C++|
