@@ -24,6 +24,7 @@ personal leetcode solution
 |104|Maximum Depth of Binary Tree|C++|
 |118|Pascal's Triangle|Rust|
 |119|Pascal's Triangle II|Rust|
+|237|Delete Node in a Linked List|C++|
 |709|To Lower Case|Rust|
 |804|Unique Morse Code Words|C++|
 |1002|Find Common Characters|C++|
