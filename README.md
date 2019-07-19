@@ -27,6 +27,7 @@ personal leetcode solution
 |237|Delete Node in a Linked List|C++|
 |451|Sort Characters By Frequency|Rust|
 |709|To Lower Case|Rust|
+|771|Jewels and Stones|Rust|
 |802|Flipping an Image|Rust|
 |804|Unique Morse Code Words|C++|
 |929|Unique Email Addresses|Rust|
