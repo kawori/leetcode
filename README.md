@@ -31,4 +31,5 @@ personal leetcode solution
 |804|Unique Morse Code Words|C++|
 |929|Unique Email Addresses|Rust|
 |1002|Find Common Characters|C++|
+|1021|Remove Outermost Parentheses|Rust|
 |1108|Defanging an IP Address|Rust|
