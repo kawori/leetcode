@@ -26,9 +26,10 @@ personal leetcode solution
 |119|Pascal's Triangle II|Rust|
 |237|Delete Node in a Linked List|C++|
 |451|Sort Characters By Frequency|Rust|
+|617|Merge Two Binary Trees|Java|
 |709|To Lower Case|Rust|
 |771|Jewels and Stones|Rust|
-|802|Flipping an Image|Rust|
+|832|Flipping an Image|Rust|
 |804|Unique Morse Code Words|C++|
 |929|Unique Email Addresses|Rust|
 |1002|Find Common Characters|C++|
