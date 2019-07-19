@@ -38,4 +38,5 @@ personal leetcode solution
 |977|Squares of a Sorted Array|C++|
 |1002|Find Common Characters|C++|
 |1021|Remove Outermost Parentheses|Rust|
+|1051|Height Checker|Rust|
 |1108|Defanging an IP Address|Rust|
