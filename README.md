@@ -35,6 +35,7 @@ personal leetcode solution
 |832|Flipping an Image|Rust|
 |804|Unique Morse Code Words|C++|
 |929|Unique Email Addresses|Rust|
+|942|DI String Match|C++|
 |977|Squares of a Sorted Array|C++|
 |1002|Find Common Characters|C++|
 |1021|Remove Outermost Parentheses|Rust|
