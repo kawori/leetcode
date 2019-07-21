@@ -26,6 +26,7 @@ personal leetcode solution
 |119|Pascal's Triangle II|Rust|
 |226|Invert Binary Tree|Java|
 |237|Delete Node in a Linked List|C++|
+|292|Nim Game|C++|
 |451|Sort Characters By Frequency|Rust|
 |461|Hamming Distance|Rust|
 |617|Merge Two Binary Trees|Java|
