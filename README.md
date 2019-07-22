@@ -37,8 +37,9 @@ personal leetcode solution
 |709|To Lower Case|Rust|
 |728|Self Dividing Numbers|Rust|
 |771|Jewels and Stones|Rust|
-|832|Flipping an Image|Rust|
 |804|Unique Morse Code Words|C++|
+|832|Flipping an Image|Rust|
+|852|Peak Index in a Mountain Array|Rust|
 |929|Unique Email Addresses|Rust|
 |942|DI String Match|C++|
 |977|Squares of a Sorted Array|C++|
