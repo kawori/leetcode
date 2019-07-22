@@ -54,6 +54,7 @@ personal leetcode solution
 |942|DI String Match|C++|
 |944|Delete Columns to Make Sorted|Java|
 |961|N-Repeated Element in Size 2N Array|Java|
+|965|Univalued Binary Tree|Python3|
 |977|Squares of a Sorted Array|C++|
 |1002|Find Common Characters|C++|
 |1021|Remove Outermost Parentheses|Rust|
