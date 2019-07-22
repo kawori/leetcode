@@ -47,6 +47,7 @@ personal leetcode solution
 |905|Sort Array By Parity|Java|
 |929|Unique Email Addresses|Rust|
 |942|DI String Match|C++|
+|944|Delete Columns to Make Sorted|Java|
 |977|Squares of a Sorted Array|C++|
 |1002|Find Common Characters|C++|
 |1021|Remove Outermost Parentheses|Rust|
