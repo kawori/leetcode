@@ -27,6 +27,7 @@ personal leetcode solution
 |226|Invert Binary Tree|Java|
 |237|Delete Node in a Linked List|C++|
 |292|Nim Game|C++|
+|344|Reverse String|C++|
 |451|Sort Characters By Frequency|Rust|
 |461|Hamming Distance|Rust|
 |476|Number Complement|Rust|
