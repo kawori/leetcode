@@ -21,7 +21,7 @@
 // Note: The merging process must start from the root nodes of both trees.
 
 // Definition for a binary tree node.
-public class TreeNode {
+class TreeNode {
     int val;
     TreeNode left;
     TreeNode right;
