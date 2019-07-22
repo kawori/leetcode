@@ -46,6 +46,7 @@ personal leetcode solution
 |852|Peak Index in a Mountain Array|Rust|
 |905|Sort Array By Parity|Java|
 |929|Unique Email Addresses|Rust|
+|933|Number of Recent Calls|Python3|
 |942|DI String Match|C++|
 |944|Delete Columns to Make Sorted|Java|
 |977|Squares of a Sorted Array|C++|
