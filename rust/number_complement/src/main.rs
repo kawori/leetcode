@@ -21,9 +21,8 @@ struct Solution;
 impl Solution {
     pub fn find_complement(num: i32) -> i32 {
         let s = 32 - format!("{:b}", num).len();
-        let mut ret = num ^ -1;
-        ret = ret << s;
-        ret >> s
+        let ret = num ^ -1;
+        ret << s >> s
     }
 }
 

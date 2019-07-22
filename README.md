@@ -41,6 +41,7 @@ personal leetcode solution
 |804|Unique Morse Code Words|C++|
 |832|Flipping an Image|Rust|
 |852|Peak Index in a Mountain Array|Rust|
+|905|Sort Array By Parity|Java|
 |929|Unique Email Addresses|Rust|
 |942|DI String Match|C++|
 |977|Squares of a Sorted Array|C++|
