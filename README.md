@@ -29,6 +29,7 @@ personal leetcode solution
 |292|Nim Game|C++|
 |451|Sort Characters By Frequency|Rust|
 |461|Hamming Distance|Rust|
+|476|Number Complement|Rust|
 |589|N-ary Tree Preorder Traversal|Java|
 |590|N-ary Tree Postorder Traversal|Java|
 |617|Merge Two Binary Trees|Java|
