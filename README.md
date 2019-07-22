@@ -47,6 +47,7 @@ personal leetcode solution
 |832|Flipping an Image|Rust|
 |852|Peak Index in a Mountain Array|Rust|
 |905|Sort Array By Parity|Java|
+|908|Smallest Range I|Java|
 |929|Unique Email Addresses|Rust|
 |933|Number of Recent Calls|Python3|
 |942|DI String Match|C++|
