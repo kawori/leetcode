@@ -33,6 +33,7 @@ personal leetcode solution
 |590|N-ary Tree Postorder Traversal|Java|
 |617|Merge Two Binary Trees|Java|
 |657|Robot Return to Origin|Rust|
+|700|Search in a Binary Search Tree|Java|
 |709|To Lower Case|Rust|
 |728|Self Dividing Numbers|Rust|
 |771|Jewels and Stones|Rust|
