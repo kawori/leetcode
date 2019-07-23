@@ -25,6 +25,7 @@ personal leetcode solution
 |108|Convert Sorted Array to Binary Search Tree|Rust|
 |118|Pascal's Triangle|Rust|
 |119|Pascal's Triangle II|Rust|
+|171|Excel Sheet Column Number|Rust|
 |226|Invert Binary Tree|Java|
 |237|Delete Node in a Linked List|C++|
 |292|Nim Game|C++|
