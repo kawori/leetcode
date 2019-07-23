@@ -22,6 +22,7 @@ personal leetcode solution
 |101|Symmetric Tree|C#|
 |102|Binary Tree Level Order Traversal I|C++|
 |104|Maximum Depth of Binary Tree|C++|
+|108|Convert Sorted Array to Binary Search Tree|Rust|
 |118|Pascal's Triangle|Rust|
 |119|Pascal's Triangle II|Rust|
 |226|Invert Binary Tree|Java|
