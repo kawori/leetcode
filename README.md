@@ -57,6 +57,7 @@ personal leetcode solution
 |961|N-Repeated Element in Size 2N Array|Java|
 |965|Univalued Binary Tree|Python3|
 |977|Squares of a Sorted Array|C++|
+|999|Available Captures for Rook|Java|
 |1002|Find Common Characters|C++|
 |1021|Remove Outermost Parentheses|Rust|
 |1025|Divisor Game|Python3|

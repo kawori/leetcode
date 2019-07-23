@@ -5,10 +5,7 @@
         "**/.settings": true,
         "**/.factorypath": true
     },
-<<<<<<< HEAD
     "C_Cpp.intelliSenseEngineFallback": "Enabled",
-    "C_Cpp.dimInactiveRegions": true
-=======
+    "C_Cpp.dimInactiveRegions": true,
     "python.formatting.provider": "yapf"
->>>>>>> refs/remotes/origin/master
 }
