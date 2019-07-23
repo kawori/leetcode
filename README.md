@@ -26,6 +26,7 @@ personal leetcode solution
 |118|Pascal's Triangle|Rust|
 |119|Pascal's Triangle II|Rust|
 |171|Excel Sheet Column Number|Rust|
+|206|Reverse Linked List|Java|
 |226|Invert Binary Tree|Java|
 |237|Delete Node in a Linked List|C++|
 |258|Add Digits|Java|
