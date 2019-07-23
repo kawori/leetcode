@@ -48,6 +48,7 @@ personal leetcode solution
 |728|Self Dividing Numbers|Rust|
 |771|Jewels and Stones|Rust|
 |804|Unique Morse Code Words|C++|
+|821|Shortest Distance to a Character|Java|
 |832|Flipping an Image|Rust|
 |852|Peak Index in a Mountain Array|Rust|
 |867|Transpose Matrix|C++|
