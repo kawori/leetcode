@@ -50,6 +50,7 @@ personal leetcode solution
 |700|Search in a Binary Search Tree|Java|
 |709|To Lower Case|Rust|
 |728|Self Dividing Numbers|Rust|
+|762|Prime Number of Set Bits in Binary Representation|Rust|
 |771|Jewels and Stones|Rust|
 |804|Unique Morse Code Words|C++|
 |811|Subdomain Visit Count|Rust|
