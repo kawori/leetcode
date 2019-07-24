@@ -38,6 +38,7 @@ personal leetcode solution
 |476|Number Complement|Rust|
 |500|Keyboard Row|Java|
 |509|Fibonacci Number|Python3|
+|521|Longest Uncommon Subsequence I|Java|
 |557|Reverse Words in a String III|C++|
 |559|Maximum Depth of N-ary Tree|Java|
 |561|Array Partition I|Python3|
