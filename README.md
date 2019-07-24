@@ -44,6 +44,7 @@ personal leetcode solution
 |557|Reverse Words in a String III|C++|
 |559|Maximum Depth of N-ary Tree|Java|
 |561|Array Partition I|Python3|
+|575|Distribute Candies|Rust|
 |589|N-ary Tree Preorder Traversal|Java|
 |590|N-ary Tree Postorder Traversal|Java|
 |617|Merge Two Binary Trees|Java|
