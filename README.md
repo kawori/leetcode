@@ -33,6 +33,7 @@ personal leetcode solution
 |292|Nim Game|C++|
 |344|Reverse String|C++|
 |349|Intersection of Two Arrays|C++|
+|429|N-ary Tree Level Order Traversal|Java|
 |451|Sort Characters By Frequency|Rust|
 |461|Hamming Distance|Rust|
 |476|Number Complement|Rust|
