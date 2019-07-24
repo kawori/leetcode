@@ -62,6 +62,7 @@ personal leetcode solution
 |821|Shortest Distance to a Character|Java|
 |832|Flipping an Image|Rust|
 |852|Peak Index in a Mountain Array|Rust|
+|859|Buddy Strings|Rust|
 |867|Transpose Matrix|C++|
 |905|Sort Array By Parity|Java|
 |908|Smallest Range I|Java|
