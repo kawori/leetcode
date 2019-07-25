@@ -67,6 +67,7 @@ personal leetcode solution
 |852|Peak Index in a Mountain Array|Rust|
 |859|Buddy Strings|Rust|
 |867|Transpose Matrix|C++|
+|874|Walking Robot Simulation|C++|
 |905|Sort Array By Parity|Java|
 |908|Smallest Range I|Java|
 |922|Sort Array By Parity II|Java|
