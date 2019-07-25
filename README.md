@@ -38,6 +38,7 @@ personal leetcode solution
 |429|N-ary Tree Level Order Traversal|Java|
 |451|Sort Characters By Frequency|Rust|
 |461|Hamming Distance|Rust|
+|475|Heaters|Rust|
 |476|Number Complement|Rust|
 |500|Keyboard Row|Java|
 |509|Fibonacci Number|Python3|
