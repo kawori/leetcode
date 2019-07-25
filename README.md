@@ -49,6 +49,7 @@ personal leetcode solution
 |575|Distribute Candies|Rust|
 |589|N-ary Tree Preorder Traversal|Java|
 |590|N-ary Tree Postorder Traversal|Java|
+|605|Can Place Flowers|Javascript|
 |617|Merge Two Binary Trees|Java|
 |657|Robot Return to Origin|Rust|
 |665|Non-decreasing Array|C++|
