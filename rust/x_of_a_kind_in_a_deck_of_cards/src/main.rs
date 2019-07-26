@@ -69,10 +69,9 @@ impl Solution {
                 map.insert(d, 1);
             }
         }
-        let count: Vec<i32> = map.values().copied().collect();
         let mut gcd = 0;
-        for c in count {
-            gcd = Solution::gcd(c, gcd);
+        for c in map.values() {
+            gcd = Solution::gcd(*c, gcd);
         }
         gcd >= 2
     }
