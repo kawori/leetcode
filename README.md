@@ -51,6 +51,7 @@ personal leetcode solution
 |590|N-ary Tree Postorder Traversal|Java|
 |605|Can Place Flowers|Javascript|
 |617|Merge Two Binary Trees|Java|
+|633|Sum of Square Numbers|C++|
 |657|Robot Return to Origin|Rust|
 |665|Non-decreasing Array|C++|
 |682|Baseball Game|Python3|
