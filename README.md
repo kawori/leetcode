@@ -90,3 +90,4 @@ personal leetcode solution
 |1078|Occurrences After Bigram|Rust|
 |1108|Defanging an IP Address|Rust|
 |1122|Relative Sort Array|Rust|
+|1128|Number of Equivalent Domino Pairs|Java|
