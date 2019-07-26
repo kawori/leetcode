@@ -75,6 +75,7 @@ personal leetcode solution
 |933|Number of Recent Calls|Python3|
 |942|DI String Match|C++|
 |944|Delete Columns to Make Sorted|Java|
+|949|Largest Time for Given Digits|Java|
 |961|N-Repeated Element in Size 2N Array|Java|
 |965|Univalued Binary Tree|Python3|
 |977|Squares of a Sorted Array|C++|
