@@ -71,6 +71,7 @@ personal leetcode solution
 |874|Walking Robot Simulation|C++|
 |905|Sort Array By Parity|Java|
 |908|Smallest Range I|Java|
+|914|X of a Kind in a Deck of Cards|Rust|
 |922|Sort Array By Parity II|Java|
 |929|Unique Email Addresses|Rust|
 |933|Number of Recent Calls|Python3|
