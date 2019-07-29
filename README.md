@@ -44,6 +44,7 @@ personal leetcode solution
 |500|Keyboard Row|Java|
 |509|Fibonacci Number|Python3|
 |521|Longest Uncommon Subsequence I|Java|
+|532|K-diff Pairs in an Array|Rust|
 |557|Reverse Words in a String III|C++|
 |559|Maximum Depth of N-ary Tree|Java|
 |561|Array Partition I|Python3|
