@@ -36,6 +36,7 @@ personal leetcode solution
 |292|Nim Game|C++|
 |344|Reverse String|C++|
 |349|Intersection of Two Arrays|C++|
+|414|Third Maximum Number|Rust|
 |429|N-ary Tree Level Order Traversal|Java|
 |434|Number of Segments in a String|Java|
 |451|Sort Characters By Frequency|Rust|
