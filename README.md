@@ -57,6 +57,7 @@ personal leetcode solution
 |633|Sum of Square Numbers|C++|
 |657|Robot Return to Origin|Rust|
 |665|Non-decreasing Array|C++|
+|680|Valid Palindrome II|C++|
 |682|Baseball Game|Python3|
 |700|Search in a Binary Search Tree|Java|
 |707|Design Linked List|C++|
