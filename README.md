@@ -70,6 +70,7 @@ personal leetcode solution
 |700|Search in a Binary Search Tree|Java|
 |707|Design Linked List|C++|
 |709|To Lower Case|Rust|
+|724|Find Pivot Index|Rust|
 |728|Self Dividing Numbers|Rust|
 |762|Prime Number of Set Bits in Binary Representation|Rust|
 |771|Jewels and Stones|Rust|
