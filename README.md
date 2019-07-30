@@ -85,6 +85,7 @@ personal leetcode solution
 |922|Sort Array By Parity II|Java|
 |929|Unique Email Addresses|Rust|
 |933|Number of Recent Calls|Python3|
+|941|Valid Mountain Array|Rust|
 |942|DI String Match|C++|
 |944|Delete Columns to Make Sorted|Java|
 |949|Largest Time for Given Digits|Java|
