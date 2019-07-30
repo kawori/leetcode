@@ -47,6 +47,7 @@ personal leetcode solution
 |475|Heaters|Rust|
 |476|Number Complement|Rust|
 |500|Keyboard Row|Java|
+|507|Perfect Number|C++|
 |509|Fibonacci Number|Python3|
 |521|Longest Uncommon Subsequence I|Java|
 |532|K-diff Pairs in an Array|Rust|
