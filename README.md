@@ -27,6 +27,7 @@ personal leetcode solution
 |119|Pascal's Triangle II|Rust|
 |125|Valid Palindrome|C++|
 |136|Single Number|Rust|
+|168|Excel Sheet Column Title|Java|
 |171|Excel Sheet Column Number|Rust|
 |204|Count Primes|Rust|
 |206|Reverse Linked List|Java|
