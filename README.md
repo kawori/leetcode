@@ -31,6 +31,7 @@ personal leetcode solution
 |171|Excel Sheet Column Number|Rust|
 |204|Count Primes|Rust|
 |206|Reverse Linked List|Java|
+|219|Contains Duplicate II|C++|
 |226|Invert Binary Tree|Java|
 |237|Delete Node in a Linked List|C++|
 |258|Add Digits|Java|
