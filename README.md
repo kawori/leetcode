@@ -53,6 +53,7 @@ personal leetcode solution
 |559|Maximum Depth of N-ary Tree|Java|
 |561|Array Partition I|Python3|
 |575|Distribute Candies|Rust|
+|581|Shortest Unsorted Continuous Subarray|Rust|
 |589|N-ary Tree Preorder Traversal|Java|
 |590|N-ary Tree Postorder Traversal|Java|
 |605|Can Place Flowers|Javascript|
