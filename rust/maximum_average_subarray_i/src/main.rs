@@ -32,7 +32,6 @@ impl Solution {
     pub fn find_max_average2(nums: Vec<i32>, k: i32) -> f64 {
         let len = nums.len();
         let mut sums = vec![0; len + 1];
-        sums[0] = 0;
         let mut max = std::i32::MIN;
         let mk = k as usize;
         for i in 1..len + 1 {
