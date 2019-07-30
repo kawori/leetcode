@@ -60,6 +60,7 @@ personal leetcode solution
 |605|Can Place Flowers|Javascript|
 |617|Merge Two Binary Trees|Java|
 |633|Sum of Square Numbers|C++|
+|643|Maximum Average Subarray I|Rust|
 |657|Robot Return to Origin|Rust|
 |665|Non-decreasing Array|C++|
 |680|Valid Palindrome II|C++|
