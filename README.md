@@ -95,6 +95,7 @@ personal leetcode solution
 |1002|Find Common Characters|C++|
 |1021|Remove Outermost Parentheses|Rust|
 |1025|Divisor Game|Python3|
+|1033|Moving Stones Until Consecutive|Rust|
 |1051|Height Checker|Rust|
 |1078|Occurrences After Bigram|Rust|
 |1108|Defanging an IP Address|Rust|
