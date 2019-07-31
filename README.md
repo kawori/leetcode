@@ -98,6 +98,7 @@ personal leetcode solution
 |949|Largest Time for Given Digits|Java|
 |961|N-Repeated Element in Size 2N Array|Java|
 |965|Univalued Binary Tree|Python3|
+|970|Powerful Integers|Rust|
 |977|Squares of a Sorted Array|C++|
 |999|Available Captures for Rook|Java|
 |1002|Find Common Characters|C++|
