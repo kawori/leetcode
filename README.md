@@ -81,6 +81,7 @@ personal leetcode solution
 |821|Shortest Distance to a Character|Java|
 |832|Flipping an Image|Rust|
 |840|Magic Squares In Grid|Java|
+|849|Maximize Distance to Closest Person|Rust|
 |852|Peak Index in a Mountain Array|Rust|
 |859|Buddy Strings|Rust|
 |867|Transpose Matrix|C++|
