@@ -104,6 +104,7 @@ personal leetcode solution
 |1021|Remove Outermost Parentheses|Rust|
 |1025|Divisor Game|Python3|
 |1033|Moving Stones Until Consecutive|Rust|
+|1037|Valid Boomerang|Rust|
 |1041|Robot Bounded In Circle|Rust|
 |1051|Height Checker|Rust|
 |1078|Occurrences After Bigram|Rust|
