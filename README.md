@@ -48,6 +48,7 @@ personal leetcode solution
 |461|Hamming Distance|Rust|
 |475|Heaters|Rust|
 |476|Number Complement|Rust|
+|482|License Key Formatting|Rust|
 |500|Keyboard Row|Java|
 |507|Perfect Number|C++|
 |509|Fibonacci Number|Python3|
