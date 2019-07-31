@@ -43,6 +43,7 @@ personal leetcode solution
 |414|Third Maximum Number|Rust|
 |429|N-ary Tree Level Order Traversal|Java|
 |434|Number of Segments in a String|Java|
+|443|String Compression|C++|
 |451|Sort Characters By Frequency|Rust|
 |461|Hamming Distance|Rust|
 |475|Heaters|Rust|
