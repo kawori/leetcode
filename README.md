@@ -41,6 +41,7 @@ personal leetcode solution
 |242|Valid Anagram|C++|
 |258|Add Digits|Java|
 |278|First Bad Version|C++|
+|290|Word Pattern|Rust|
 |292|Nim Game|C++|
 |344|Reverse String|C++|
 |349|Intersection of Two Arrays|C++|
