@@ -45,6 +45,7 @@ personal leetcode solution
 |344|Reverse String|C++|
 |349|Intersection of Two Arrays|C++|
 |374|Guess Number Higher or Lower|C++|
+|387|First Unique Character in a String|C++|
 |400|Nth Digit|C++|
 |414|Third Maximum Number|Rust|
 |429|N-ary Tree Level Order Traversal|Java|
