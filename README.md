@@ -23,6 +23,7 @@ personal leetcode solution
 |102|Binary Tree Level Order Traversal I|C++|
 |104|Maximum Depth of Binary Tree|C++|
 |108|Convert Sorted Array to Binary Search Tree|Rust|
+|111|Minimum Depth of Binary Tree|Rust|
 |118|Pascal's Triangle|Rust|
 |119|Pascal's Triangle II|Rust|
 |125|Valid Palindrome|C++|
