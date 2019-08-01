@@ -29,6 +29,7 @@ personal leetcode solution
 |136|Single Number|Rust|
 |168|Excel Sheet Column Title|Java|
 |171|Excel Sheet Column Number|Rust|
+|189|Rotate Array|C++|
 |204|Count Primes|Rust|
 |206|Reverse Linked List|Java|
 |219|Contains Duplicate II|C++|
