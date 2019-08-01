@@ -43,6 +43,7 @@ personal leetcode solution
 |292|Nim Game|C++|
 |344|Reverse String|C++|
 |349|Intersection of Two Arrays|C++|
+|374|Guess Number Higher or Lower|C++|
 |400|Nth Digit|C++|
 |414|Third Maximum Number|Rust|
 |429|N-ary Tree Level Order Traversal|Java|
