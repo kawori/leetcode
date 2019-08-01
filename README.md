@@ -36,6 +36,7 @@ personal leetcode solution
 |226|Invert Binary Tree|Java|
 |234|Palindrome Linked List|C++|
 |237|Delete Node in a Linked List|C++|
+|242|Valid Anagram|C++|
 |258|Add Digits|Java|
 |278|First Bad Version|C++|
 |292|Nim Game|C++|
@@ -45,6 +46,7 @@ personal leetcode solution
 |414|Third Maximum Number|Rust|
 |429|N-ary Tree Level Order Traversal|Java|
 |434|Number of Segments in a String|Java|
+|438|Find All Anagrams in a String|C++|
 |443|String Compression|C++|
 |451|Sort Characters By Frequency|Rust|
 |461|Hamming Distance|Rust|
