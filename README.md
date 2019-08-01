@@ -47,6 +47,7 @@ personal leetcode solution
 |429|N-ary Tree Level Order Traversal|Java|
 |434|Number of Segments in a String|Java|
 |438|Find All Anagrams in a String|C++|
+|441|Arranging Coins|C++|
 |443|String Compression|C++|
 |451|Sort Characters By Frequency|Rust|
 |461|Hamming Distance|Rust|
