@@ -32,6 +32,7 @@ personal leetcode solution
 |171|Excel Sheet Column Number|Rust|
 |172|Factorial Trailing Zeroes|C++|
 |189|Rotate Array|C++|
+|190|Reverse Bits|C++|
 |204|Count Primes|Rust|
 |205|Isomorphic Strings|Rust|
 |206|Reverse Linked List|Java|
