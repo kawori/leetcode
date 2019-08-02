@@ -116,6 +116,7 @@ personal leetcode solution
 |965|Univalued Binary Tree|Python3|
 |970|Powerful Integers|Rust|
 |977|Squares of a Sorted Array|C++|
+|994|Rotting Oranges|Rust|
 |999|Available Captures for Rook|Java|
 |1002|Find Common Characters|C++|
 |1018|Binary Prefix Divisible By 5|Java|
