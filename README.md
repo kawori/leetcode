@@ -117,6 +117,7 @@ personal leetcode solution
 |977|Squares of a Sorted Array|C++|
 |999|Available Captures for Rook|Java|
 |1002|Find Common Characters|C++|
+|1018|Binary Prefix Divisible By 5|Java|
 |1021|Remove Outermost Parentheses|Rust|
 |1025|Divisor Game|Python3|
 |1033|Moving Stones Until Consecutive|Rust|
