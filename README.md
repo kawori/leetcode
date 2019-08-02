@@ -33,6 +33,7 @@ personal leetcode solution
 |172|Factorial Trailing Zeroes|C++|
 |189|Rotate Array|C++|
 |204|Count Primes|Rust|
+|205|Isomorphic Strings|Rust|
 |206|Reverse Linked List|Java|
 |219|Contains Duplicate II|C++|
 |226|Invert Binary Tree|Java|
