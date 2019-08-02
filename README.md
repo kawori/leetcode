@@ -122,6 +122,7 @@ personal leetcode solution
 |1033|Moving Stones Until Consecutive|Rust|
 |1037|Valid Boomerang|Rust|
 |1041|Robot Bounded In Circle|Rust|
+|1042|Flower Planting With No Adjacent|C++|
 |1051|Height Checker|Rust|
 |1078|Occurrences After Bigram|Rust|
 |1108|Defanging an IP Address|Rust|
