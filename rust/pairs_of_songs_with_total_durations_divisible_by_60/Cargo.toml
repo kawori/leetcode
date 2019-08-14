@@ -1,0 +1,9 @@
+[package]
+name = "pairs_of_songs_with_total_durations_divisible_by_60"
+version = "0.1.0"
+authors = ["kawori <zwzhcn@outlook.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

@@ -120,6 +120,7 @@ personal leetcode solution
 |994|Rotting Oranges|Rust|
 |999|Available Captures for Rook|Java|
 |1002|Find Common Characters|C++|
+|1010|Pairs of Songs With Total Durations Divisible by 60|Rust|
 |1018|Binary Prefix Divisible By 5|Java|
 |1021|Remove Outermost Parentheses|Rust|
 |1025|Divisor Game|Python3|
