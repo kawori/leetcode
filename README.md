@@ -47,6 +47,7 @@ personal leetcode solution
 |292|Nim Game|C++|
 |344|Reverse String|C++|
 |349|Intersection of Two Arrays|C++|
+|367|Valid Perfect Square|Rust|
 |374|Guess Number Higher or Lower|C++|
 |387|First Unique Character in a String|C++|
 |400|Nth Digit|C++|
