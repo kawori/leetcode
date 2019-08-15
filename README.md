@@ -91,6 +91,7 @@ personal leetcode solution
 |709|To Lower Case|Rust|
 |724|Find Pivot Index|Rust|
 |728|Self Dividing Numbers|Rust|
+|744|Find Smallest Letter Greater Than Target|C++|
 |747|Largest Number At Least Twice of Others|C++|
 |754|Reach a Number|C++|
 |762|Prime Number of Set Bits in Binary Representation|Rust|
