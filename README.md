@@ -113,6 +113,7 @@ personal leetcode solution
 |908|Smallest Range I|Java|
 |914|X of a Kind in a Deck of Cards|Rust|
 |922|Sort Array By Parity II|Java|
+|925|Long Pressed Name|C++|
 |929|Unique Email Addresses|Rust|
 |933|Number of Recent Calls|Python3|
 |941|Valid Mountain Array|Rust|
