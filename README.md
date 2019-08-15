@@ -70,6 +70,7 @@ personal leetcode solution
 |557|Reverse Words in a String III|C++|
 |559|Maximum Depth of N-ary Tree|Java|
 |561|Array Partition I|Python3|
+|572|Subtree of Another Tree|C++|
 |575|Distribute Candies|Rust|
 |581|Shortest Unsorted Continuous Subarray|Rust|
 |589|N-ary Tree Preorder Traversal|Java|
