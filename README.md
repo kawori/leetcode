@@ -74,6 +74,7 @@ personal leetcode solution
 |581|Shortest Unsorted Continuous Subarray|Rust|
 |589|N-ary Tree Preorder Traversal|Java|
 |590|N-ary Tree Postorder Traversal|Java|
+|594|Longest Harmonious Subsequence|Rust|
 |605|Can Place Flowers|Javascript|
 |617|Merge Two Binary Trees|Java|
 |633|Sum of Square Numbers|C++|
