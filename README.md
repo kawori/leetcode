@@ -89,6 +89,7 @@ personal leetcode solution
 |703|Kth Largest Element in a Stream|C++|
 |707|Design Linked List|C++|
 |709|To Lower Case|Rust|
+|717|1-bit and 2-bit Characters|C++|
 |720|Longest Word in Dictionary|C++|
 |724|Find Pivot Index|Rust|
 |728|Self Dividing Numbers|Rust|
