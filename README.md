@@ -98,6 +98,7 @@ personal leetcode solution
 |754|Reach a Number|C++|
 |762|Prime Number of Set Bits in Binary Representation|Rust|
 |771|Jewels and Stones|Rust|
+|784|Letter Case Permutation|C++|
 |804|Unique Morse Code Words|C++|
 |811|Subdomain Visit Count|Rust|
 |819|Most Common Word|C++/Rust|
